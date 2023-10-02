@@ -1,0 +1,15 @@
+
+a{
+    text-decoration: none;
+}
+.blog:hover{
+    transform: translateY(-3px);
+    transition: .5s;
+}
+.blog-user,.blog-title{
+    color: #64CCC5;
+   
+}
+.blog-box::-webkit-scrollbar{
+    display: none;
+}
