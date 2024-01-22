@@ -30,7 +30,7 @@
      * `MONGO_URL="Your-mongodb-url`
      * `PORT=Your-port-number`
      * `SALING_ROUND=10`
-* then inside server folder , run `node ndex.js`
-* then inside client folder, run `npm start`
+* then inside server folder , run `npm install && node ndex.js`
+* then inside client folder, run `npm install && npm start`
 * then enter the url in the browser, `http://localhost:3000`
 
