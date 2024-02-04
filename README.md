@@ -16,6 +16,7 @@
 * Bcrypt
 * Material UI
 * Dotenv
+* React-quill editor
   
 # Project Usage (online)
 * First go to backend api link to start the api (its deployed in render.com free tier , hence it will spun down after inactive of 15 seconds)
